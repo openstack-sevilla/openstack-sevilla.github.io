@@ -133,6 +133,20 @@ strong {
   font-weight: bold;
 }
 
+header img {
+    display: block;
+    position: absolute;
+    top:0;
+    right: 10px;
+    padding: 10px 10px 10px 10px;
+    border: 0;
+    box-shadow: 0 0 0;
+    -webkit-box-shadow: 0 0 0;
+    -moz-box-shadow: 0 0 0;
+    -o-box-shadow: 0 0 0;
+    -ms-box-shadow: 0 0 0;
+}
+
 img {
   position: relative;
   margin: 0 auto;
