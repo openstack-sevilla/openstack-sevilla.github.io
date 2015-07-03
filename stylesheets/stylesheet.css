@@ -274,6 +274,8 @@ form {
 Full-Width Styles
 *******************************************************************************/
 
+.center { text-align: center; }
+
 .outer {
   width: 100%;
 }
